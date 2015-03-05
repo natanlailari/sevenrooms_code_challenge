@@ -1,2 +1,2 @@
 # sevenrooms_code_challenge
-coding challenge for Seven Rooms
+To run: python3 sevenrooms_challenge.py
